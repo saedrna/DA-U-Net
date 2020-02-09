@@ -1,0 +1,14 @@
+metadata_version: 1
+name: DA-U-Net
+description: Code corresponding to the paper "Deep Fusion of Local and Non-Local Features
+  for Precision Landslide Mapping".
+authors:
+- name: Lin Chen
+  affiliations:
+  - name: Southwest Jiaotong University
+- name: Han Hu
+  affiliations:
+  - name: Southwest Jiaotong University
+corresponding_contributor:
+  name: Han Hu
+  email: han.hu@swjtu.edu.cn
