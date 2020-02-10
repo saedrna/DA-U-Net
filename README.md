@@ -1,5 +1,4 @@
-# [Deep Fusion of Local and Non-Local Features for Precision Landslide Mapping(GRSL)]
-[Han Hu](https://github.com/saedrna/2019-Landslide) Qing Zhu,Lin Chen, Han Hu, Binzhi Xu, Haifeng Li, Yeting Zhang
+# Deep Fusion of Local and Non-Local Features for Precision Landslide Mapping
 
 ## Introduction
 We proposes an effective approach to fuse both local and nonlocal features for precision landslide mapping, which achieves state-of-the-art segmentation performance for the landslide using images covering post-earthquake Jiuzhaigou.
@@ -18,7 +17,7 @@ Due to regulatory issues of China, we must remove the geoference information and
    ```
   - Or install the dependencies using anaconda
   ```bash
-  conda install -y --channel=https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main --     channel=https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge \
+  conda install -y --channel=https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main --channel=https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge \
         numpy==1.18.1 \
         opencv==3.4.2 \
         python==3.6.0 \
@@ -39,4 +38,4 @@ The UAV images covering six town were obtained for the landslides caused by the 
 
 # Reproduction
 
-The code is also on [Code Ocean](#) for the convinience of reproduction.
+The code is also on [Code Ocean](https://codeocean.com/capsule/0157338/tree/v1) for the convinience of reproduction.
