@@ -39,3 +39,14 @@ The UAV images covering six town were obtained for the landslides caused by the 
 # Reproduction
 
 The code is also on [Code Ocean](https://codeocean.com/capsule/0157338/tree/v1) for the convinience of reproduction.
+
+## Cite
+
+```
+@article{zhu2020deep,
+  title={Deep Fusion of Local and Non-Local Features for Precision Landslide Recognition},
+  author={Zhu, Qing and Chen, Lin and Hu, Han and Xu, Binzhi and Zhang, Yeting and Li, Haifeng},
+  journal={arXiv preprint arXiv:2002.08547},
+  year={2020}
+}
+```
